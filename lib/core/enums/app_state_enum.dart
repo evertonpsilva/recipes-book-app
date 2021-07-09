@@ -1,0 +1,1 @@
+enum AppState{ LOADING, DONE, ERROR }
